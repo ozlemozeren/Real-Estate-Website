@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Real Estate Website with ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To see beautiful homes and more click [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
