@@ -1,6 +1,7 @@
 # Real Estate Website with ReactJS
 
-To see beautiful homes and more click [Create React App](https://github.com/facebook/create-react-app).
+To see beautiful homes and more 
+(https://ozlemozeren.github.io/Real-Estate-Website/).
 
 ## Available Scripts
 
