@@ -1,7 +1,18 @@
 # Real Estate Website with ReactJS
 
-To see beautiful homes and more 
-(https://ozlemozeren.github.io/Real-Estate-Website/).
 
-## ReactsJS
+Click to see the page.
+[Click Me](https://ozlemozeren.github.io/Real-Estate-Website/)
+
+## Topics
+
+- ReactJS
+- Javascript
+- Sytled Components
+- Responsive Designs
+
+
+## Author
+Özlem Coşkun Özeren
+
 
